@@ -1,0 +1,21 @@
+img {
+    display: block;
+    max-width: 100%;
+    max-height: auto;
+}
+
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 48px 24px;
+    max-width: 1128px;
+    padding: 5% 15px 0;
+    margin: 0 auto;
+    list-style: none;
+}
+
+.gallery-item {
+    max-width: 360px;
+}
